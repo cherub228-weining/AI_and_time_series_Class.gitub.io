@@ -1,0 +1,36 @@
+QUICK SETUP - GITHUB WEB UPLOAD
+================================
+
+Target repository:
+https://github.com/cherub228-weining/AI_and_time_series_Class.gitub.io
+
+1. Extract AI_and_time_series_Class.gitub.io-upload.zip on your computer.
+
+2. Open the extracted folder. Select all of its CONTENTS, including:
+   .github, assets, data, downloads, index.html, styles.css, script.js,
+   README.md, LICENSE.md, .gitignore and .nojekyll.
+
+3. Open GitHub's upload page:
+   https://github.com/cherub228-weining/AI_and_time_series_Class.gitub.io/upload
+
+4. Drag the selected contents onto the upload page. Do not upload the ZIP
+   itself, because GitHub will not unpack it.
+
+5. At the bottom, use the commit message "Add paper companion site" and
+   click "Commit changes".
+
+6. Open the repository's Settings > Pages. Under Build and deployment,
+   choose "GitHub Actions" as the source.
+
+7. The included workflow will publish the site at:
+   https://cherub228-weining.github.io/AI_and_time_series_Class.gitub.io/
+
+UPDATING THE LITERATURE
+-----------------------
+Edit data/references.json. Copy an existing entry, update its fields, and
+change lastUpdated. The page search and topic filters update automatically.
+
+ADDING CLASS VIDEOS
+-------------------
+The five video slots are prepared in index.html under the section with
+id="lectures". Add the recording URLs when they become available.

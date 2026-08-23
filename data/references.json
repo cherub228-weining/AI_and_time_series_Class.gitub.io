@@ -1,0 +1,186 @@
+{
+  "lastUpdated": "23 August 2026",
+  "howToUpdate": "Add a new object to entries with title, authors, year, venue, category and url. Allowed categories: classical, transformers, foundation, diffusion, evaluation.",
+  "entries": [
+    {
+      "id": "chen-wang-2026-review",
+      "title": "From Vector Autoregressions to AI-based Time Series Forecasting: A Review",
+      "authors": "Likai Chen and Weining Wang",
+      "year": 2026,
+      "venue": "arXiv",
+      "category": "evaluation",
+      "url": "https://arxiv.org/abs/2607.14279"
+    },
+    {
+      "id": "chronos2-2025",
+      "title": "Chronos-2: From Univariate to Universal Forecasting",
+      "authors": "Abdul Fatir Ansari et al.",
+      "year": 2025,
+      "venue": "arXiv",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2510.15821"
+    },
+    {
+      "id": "gifteval-2024",
+      "title": "GIFT-Eval: A Benchmark for General Time Series Forecasting Model Evaluation",
+      "authors": "Taha Aksu et al.",
+      "year": 2024,
+      "venue": "arXiv",
+      "category": "evaluation",
+      "url": "https://arxiv.org/abs/2410.10393"
+    },
+    {
+      "id": "chronos-2024",
+      "title": "Chronos: Learning the Language of Time Series",
+      "authors": "Abdul Fatir Ansari et al.",
+      "year": 2024,
+      "venue": "Transactions on Machine Learning Research",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2403.07815"
+    },
+    {
+      "id": "timesfm-2024",
+      "title": "A Decoder-Only Foundation Model for Time-Series Forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen and Yichen Zhou",
+      "year": 2024,
+      "venue": "ICML",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2310.10688"
+    },
+    {
+      "id": "moirai-2024",
+      "title": "Unified Training of Universal Time Series Forecasting Transformers",
+      "authors": "Gerald Woo et al.",
+      "year": 2024,
+      "venue": "ICML",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2402.02592"
+    },
+    {
+      "id": "itransformer-2024",
+      "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+      "authors": "Yong Liu et al.",
+      "year": 2024,
+      "venue": "ICLR",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/2310.06625"
+    },
+    {
+      "id": "tsdiff-2023",
+      "title": "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting",
+      "authors": "Marcel Kollovieh et al.",
+      "year": 2023,
+      "venue": "NeurIPS",
+      "category": "diffusion",
+      "url": "https://arxiv.org/abs/2307.11494"
+    },
+    {
+      "id": "patchtst-2023",
+      "title": "A Time Series Is Worth 64 Words: Long-Term Forecasting with Transformers",
+      "authors": "Yuqi Nie et al.",
+      "year": 2023,
+      "venue": "ICLR",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/2211.14730"
+    },
+    {
+      "id": "dlinear-2023",
+      "title": "Are Transformers Effective for Time Series Forecasting?",
+      "authors": "Ailing Zeng et al.",
+      "year": 2023,
+      "venue": "AAAI",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/2205.13504"
+    },
+    {
+      "id": "revin-2022",
+      "title": "Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift",
+      "authors": "Taesung Kim et al.",
+      "year": 2022,
+      "venue": "ICLR",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/2105.11008"
+    },
+    {
+      "id": "csdi-2021",
+      "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+      "authors": "Yusuke Tashiro, Jiaming Song, Yang Song and Stefano Ermon",
+      "year": 2021,
+      "venue": "NeurIPS",
+      "category": "diffusion",
+      "url": "https://arxiv.org/abs/2107.03502"
+    },
+    {
+      "id": "timegrad-2021",
+      "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting",
+      "authors": "Kashif Rasul et al.",
+      "year": 2021,
+      "venue": "ICML",
+      "category": "diffusion",
+      "url": "https://arxiv.org/abs/2101.12072"
+    },
+    {
+      "id": "informer-2021",
+      "title": "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting",
+      "authors": "Haoyi Zhou et al.",
+      "year": 2021,
+      "venue": "AAAI",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/2012.07436"
+    },
+    {
+      "id": "ddpm-2020",
+      "title": "Denoising Diffusion Probabilistic Models",
+      "authors": "Jonathan Ho, Ajay Jain and Pieter Abbeel",
+      "year": 2020,
+      "venue": "NeurIPS",
+      "category": "diffusion",
+      "url": "https://arxiv.org/abs/2006.11239"
+    },
+    {
+      "id": "m4-2020",
+      "title": "The M4 Competition: 100,000 Time Series and 61 Forecasting Methods",
+      "authors": "Spyros Makridakis, Evangelos Spiliotis and Vassilios Assimakopoulos",
+      "year": 2020,
+      "venue": "International Journal of Forecasting",
+      "category": "evaluation",
+      "url": "https://doi.org/10.1016/j.ijforecast.2019.04.014"
+    },
+    {
+      "id": "attention-2017",
+      "title": "Attention Is All You Need",
+      "authors": "Ashish Vaswani et al.",
+      "year": 2017,
+      "venue": "NeurIPS",
+      "category": "transformers",
+      "url": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "id": "engle-granger-1987",
+      "title": "Co-integration and Error Correction: Representation, Estimation, and Testing",
+      "authors": "Robert F. Engle and C. W. J. Granger",
+      "year": 1987,
+      "venue": "Econometrica",
+      "category": "classical",
+      "url": "https://doi.org/10.2307/1913236"
+    },
+    {
+      "id": "sims-1980",
+      "title": "Macroeconomics and Reality",
+      "authors": "Christopher A. Sims",
+      "year": 1980,
+      "venue": "Econometrica",
+      "category": "classical",
+      "url": "https://doi.org/10.2307/1912017"
+    },
+    {
+      "id": "granger-1969",
+      "title": "Investigating Causal Relations by Econometric Models and Cross-spectral Methods",
+      "authors": "C. W. J. Granger",
+      "year": 1969,
+      "venue": "Econometrica",
+      "category": "classical",
+      "url": "https://doi.org/10.2307/1912791"
+    }
+  ]
+}
