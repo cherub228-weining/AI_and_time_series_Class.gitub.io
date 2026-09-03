@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 August 2026",
+  "lastUpdated": "3 September 2026",
   "howToUpdate": "Add a new object to entries with title, authors, year, venue, category and url. Allowed categories: classical, transformers, foundation, diffusion, evaluation.",
   "entries": [
     {
@@ -12,6 +12,24 @@
       "url": "https://arxiv.org/abs/2607.14279"
     },
     {
+      "id": "timesfm3-2026",
+      "title": "TimesFM-3: A Zero-Shot Foundation Model for Multivariate Forecasting",
+      "authors": "Ayush Jain and Rajat Sen",
+      "year": 2026,
+      "venue": "Google Research Blog",
+      "category": "foundation",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/"
+    },
+    {
+      "id": "fm-finetuning-2026",
+      "title": "Foundation Models and Fine-Tuning: Toward a New Generation of Models for Time Series Forecasting",
+      "authors": "Morad Laglil, Bertrand Pracca, Emilie Devijver and Eric Gaussier",
+      "year": 2026,
+      "venue": "arXiv",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2607.23146"
+    },
+    {
       "id": "chronos2-2025",
       "title": "Chronos-2: From Univariate to Universal Forecasting",
       "authors": "Abdul Fatir Ansari et al.",
@@ -19,6 +37,15 @@
       "venue": "arXiv",
       "category": "foundation",
       "url": "https://arxiv.org/abs/2510.15821"
+    },
+    {
+      "id": "synapse-2025",
+      "title": "Synapse: Adaptive Arbitration of Complementary Expertise in Time Series Foundational Models",
+      "authors": "Sarkar Snigdha Sarathi Das et al.",
+      "year": 2025,
+      "venue": "arXiv",
+      "category": "foundation",
+      "url": "https://arxiv.org/abs/2511.05460"
     },
     {
       "id": "gifteval-2024",
